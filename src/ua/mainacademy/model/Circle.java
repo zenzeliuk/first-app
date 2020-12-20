@@ -1,6 +1,6 @@
 package ua.mainacademy.model;
 
-public class Circle extends AbstractFigure{
+public class Circle implements Shape {
     private double radius;
 
     public double getRadius() {

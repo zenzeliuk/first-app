@@ -1,6 +1,6 @@
 package ua.mainacademy.model;
 
-public class Square extends AbstractFigure{
+public class Square implements Shape{
     private double sideA;
 
     public double getSideA() {

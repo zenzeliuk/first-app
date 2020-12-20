@@ -1,5 +1,5 @@
 package ua.mainacademy.model;
 
-public interface Figure {
+public interface Shape {
     double getArea();
 }
